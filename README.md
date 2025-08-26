@@ -3,7 +3,6 @@
 Tired of a messy Downloads folder?
 This Streamlit-powered Folder Organizer automatically sorts your files into subfolders by type (text, Python, images, executables, etc.).
 
-🌐 Try it Live: (deploy link if available)
 
 
 ---
